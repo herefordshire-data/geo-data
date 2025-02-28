@@ -3,8 +3,8 @@ Holds georeferenced data about Herefordshire
 
 ## Community Green Infrastructure Map
 ### File names
-[hereford-community-green-infrastructure-map.geojson](https://github.com/herefordshire-data/geo-data/blob/main/hereford-community-green-infrastructure-map.geojson)
-[hereford-community-green-infrastructure-map.qmd](https://github.com/herefordshire-data/geo-data/blob/main/hereford-community-green-infrastructure-map.qmd)
+- [hereford-community-green-infrastructure-map.geojson](https://github.com/herefordshire-data/geo-data/blob/main/hereford-community-green-infrastructure-map.geojson)
+- [hereford-community-green-infrastructure-map.qmd](https://github.com/herefordshire-data/geo-data/blob/main/hereford-community-green-infrastructure-map.qmd)
 
 ### Description
 Green infrastructure as surveyed by local community volunteers in 2019.
